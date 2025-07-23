@@ -1,4 +1,6 @@
 # DSA
 Leetcoding ATM 👨🏻‍💻
-currently solving Striver sheet
+currently solving Striver sheet.
+Daily updates
+
 
