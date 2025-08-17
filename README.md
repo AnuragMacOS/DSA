@@ -1,5 +1,5 @@
 # DSA
-Leetcoding ATM �
+Leetcoding ATM 
 currently solving Striver sheet.
 Daily updates
 
