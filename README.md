@@ -1,6 +1,6 @@
 # DSA
 Leetcoding ATM 
-currently solving Striver sheet.
+currently solving Striver a2z sheet.
 Daily updates.....
 
 
