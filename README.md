@@ -1,6 +1,6 @@
 # DS Algo
 Leetcoding ATM.
-Onto Striver a2z shee.
+Onto Striver a2z sheet.
 
 
 
