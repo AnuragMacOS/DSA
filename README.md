@@ -1,6 +1,6 @@
 # DS Algo
 Leetcoding ATM.
-Onto Stack and Queues..
+Onto Stack and Queues....
 
 
 
