@@ -1,6 +1,6 @@
 # DS Algo
 Leetcoding ATM.
-Onto Trees...
+Onto Trees.
 
 
 
