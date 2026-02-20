@@ -1,0 +1,27 @@
+240. Search a 2D Matrix II
+
+    class Solution
+{
+public:
+    bool searchMatrix(vector<vector<int>> &matrix, int target)
+    {
+        int m = matrix.size();
+        int n = matrix[0].size();
+        int row = 0, column = n - 1;
+
+        while (row < m && column >= 0)
+        { // column<-----going this way
+            if (matrix[row][column] == target)
+            {
+                return true;
+            }
+            else if (matrix[row][column] < target)
+            {
+                row++;
+            }
+            else
+                column--;
+        }
+        return false;
+    }
+};
