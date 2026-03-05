@@ -1,6 +1,6 @@
 # DS Algo
 Leetcoding ATM.
-Onto Binary Trees.
+Onto Binary search Trees.
 
 
 
