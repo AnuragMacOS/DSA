@@ -1,5 +1,5 @@
 # DS Algo
-Leetcoding ATM....
+Leetcoding ATM.
 BST almost done..
 
 
