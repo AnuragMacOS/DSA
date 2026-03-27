@@ -1,6 +1,6 @@
 # DS Algo
 Leetcoding ATM.
-BST almost done...
+BST almost done.
 
 
 
