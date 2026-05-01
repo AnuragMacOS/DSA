@@ -1,0 +1,29 @@
+173. Binary Search Tree Iterator
+
+    class BSTIterator
+{
+  stack<TreeNode *> myStack;
+
+public:
+  BSTIterator(TreeNode *root) pushAll(root);
+
+  bool hasNext() return !myStack.empty();
+
+  int next()
+  {
+    TreeNode *tmpNode = myStack.top();
+    myStack.pop();
+    pushAll(tmpNode->right);
+    return tmpNode->val;
+  }
+
+private:
+  void pushAll(TreeNode *node)
+  {
+    while (node != NULL)
+    {
+      myStack.push(node);
+      node = node->left;
+    }
+  }
+};
