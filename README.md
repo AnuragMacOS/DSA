@@ -1,2 +1,3 @@
 # DS Algo
-ON DP.
+DP on subsequence
+
