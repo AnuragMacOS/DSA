@@ -1,3 +1,3 @@
 # DS Algo
-DP on subsequence
+DP on Strings
 
